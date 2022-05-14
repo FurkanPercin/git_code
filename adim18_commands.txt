@@ -1,0 +1,2 @@
+git branch # branchleri listeler
+git branch -d linux # linux branchini siler
