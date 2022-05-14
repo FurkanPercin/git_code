@@ -1,0 +1,8 @@
+git --version
+git init
+git config --global user.name
+git config --global user.email
+git config --global alias.harita ""[Dlog --all --graph --decorate --oneline"
+git tag v1.0
+git clone URL
+git stash 
