@@ -1,0 +1,13 @@
+ls -al
+cd ..
+cd - 
+cd ../..
+rm -r directory
+rm -i file
+mkdir
+touch
+pwd
+echo ""[Dmessage[B" >> file
+df
+lsblk
+usermod
