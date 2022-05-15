@@ -1,8 +1,12 @@
 git --version
 git init
-git config --global user.name
-git config --global user.email
-git config --global alias.harita ""[Dlog --all --graph --decorate --oneline"
+git config --global user.name "furkan"
+git config --global user.email "furkanpercin@hotmail.com"
+git config --global alias.harita "log --all --graph --decorate --oneline"
 git tag v1.0
 git clone URL
 git stash 
+git diff master git
+git merge git --no-ff
+git merge linux
+

@@ -1,0 +1,3 @@
+mkdir git_code
+cd git_code/
+touch data.txt
