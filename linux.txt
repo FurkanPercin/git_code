@@ -7,7 +7,8 @@ rm -i file
 mkdir
 touch
 pwd
-echo ""[Dmessage[B" >> file
+echo "message" >> file
 df
-lsblk
+ps -ef
 usermod
+chmod
